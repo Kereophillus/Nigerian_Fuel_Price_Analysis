@@ -1,0 +1,51 @@
+.NigerianFuelPriceAnalysisEnv/               
+data/               
+*.ipynb_checkpoints/ 
+   
+*.log      
+sandbox/      
+
+# Python cache files
+__pycache__/   
+*.py[cod]
+
+# Python Build artifacts
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Virtual environment
+venv/
+
+# Data files
+*.csv
+*.json
+*.xml
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
