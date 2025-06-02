@@ -4,6 +4,8 @@
 Analysis of fuel price trends across Nigeria, examining regional variations, temporal patterns, and potential correlations with economic indicators.
 
 ## Project Structure
+```plaintext
+
 nigerian-fuel-price-analysis/
 │
 ├── data/
@@ -14,15 +16,14 @@ nigerian-fuel-price-analysis/
 ├── notebooks/          # Jupyter notebooks
 ├── src/                # Python source files
 │   ├── __init__.py
-│   ├── data/           # Data processing scripts
-│   └── visualization/  # Visualization scripts
+│   ├── data_scripts/           # Data processing scripts
+│   └── visualization_scipts/  # Visualization scripts
 │
-├── docs/               # Documentation
 ├── reports/            # Generated analysis reports
 ├── .gitignore          # Git ignore file
 ├── README.md           # Project overview
 └── requirements.txt    # Dependencies
-
+```
 
 ## Data Sources
 - [NNPC Official Reports]()

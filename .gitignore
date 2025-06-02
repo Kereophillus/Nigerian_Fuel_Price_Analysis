@@ -1,7 +1,7 @@
 .NigerianFuelPriceAnalysisEnv/               
 data/               
 *.ipynb_checkpoints/ 
-   
+notes.txt/
 *.log      
 sandbox/      
 
