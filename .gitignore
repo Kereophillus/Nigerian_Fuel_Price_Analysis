@@ -39,6 +39,7 @@ venv/
 
 # Data files
 *.csv
+!metadata.csv   # Except this specific file
 *.json
 *.xml
 *.db

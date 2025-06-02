@@ -1,4 +1,5 @@
 # Nigerian Fuel Price Analysis
+## STILL IN DEVELOPMENT
 
 ## Project Overview
 Analysis of fuel price trends across Nigeria, examining regional variations, temporal patterns, and potential correlations with economic indicators.
@@ -26,10 +27,9 @@ nigerian-fuel-price-analysis/
 ```
 
 ## Data Sources
-- [NNPC Official Reports]()
+
 - [NBS Data]()
-- [Fuel Station APIs]()
-- [Web Scraped Data]()
+
 
 ## Installation
 1. Clone the repository
