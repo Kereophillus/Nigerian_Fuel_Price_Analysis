@@ -1,0 +1,41 @@
+file_name,year,month,extension,sheet_name,start_row,end_row,skip_rows,usecols,column_names,grouped_by_zone,notes
+PMS_JANUARY_2022.xlsx,2022,January,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_FEBRUARY_2022.xlsx,2022,February,xlsx,0,3,39,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_MARCH_2022.xlsx,2022,March,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_APRIL_2022.xlsx,2022,April,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_MAY_2022.xlsx,2022,May,xlsx,0,3,39,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_JUNE_2022.xlsx,2022,June,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_JULY_2022.xlsx,2022,July,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",no,
+PMS_AUGUST_2022.xlsx,2022,August,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_SEPTEMBER_2022.xlsx,2022,September,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_OCTOBER_2022.xlsx,2022,October,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_NOVEMBER_2022.xlsx,2022,November,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_DECEMBER_2022.xlsx,2022,December,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices,Prices_of_last_month,Prices_of_last_year",Yes,Skip regional summaries and use only valid state rows.
+PMS_JANUARY_2023.xlsx,2023,January,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_FEBRUARY_2023.xlsx,2023,February,xlsx,0,3,44,"10,17,25,31,38",F:I,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_MARCH_2023.xlsx,2023,March,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_APRIL_2023.xlsx,2023,April,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_MAY_2023.xlsx,2023,May,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_JUNE_2023.xlsx,2023,June,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_JULY_2023.xlsx,2023,July,xlsx,0,3,44,"10,17,25,31,38",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_AUGUST_2023.xlsx,2023,August,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,Skip regional summaries and use only valid state rows.
+PMS_SEPTEMBER_2023.xlsx,2023,September,xlsx,0,4,45,"11,18,26,32,39",A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",Yes,
+PMS_OCTOBER_2023.xlsx,2023,October,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_NOVEMBER_2023.xlsx,2023,November,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_DECEMBER_2023.xlsx,2023,December,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_JANUARY_2024.xlsx,2024,January,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_FEBRUARY_2024.xlsx,2024,February,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_MARCH_2024.xlsx,2024,March,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_APRIL_2024.xlsx,2024,April,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_MAY_2024.xlsx,2024,May,pdf,,,,,,,,"Pg 8, With regional summaries"
+PMS_JUNE_2024.xlsx,2024,June,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_JULY_2024.xlsx,2024,July,xlsx,0,3,39,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_AUGUST_2024.xlsx,2024,August,xlsx,0,3,39,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_SEPTEMBER_2024.xlsx,2024,September,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_OCTOBER_2024.xlsx,2024,October,xlsx,0,16,52,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_NOVEMBER_2024.xlsx,2024,November,xlsx,0,3,39,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_DECEMBER_2024.xlsx,2024,December,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_JANUARY_2025.xlsx,2025,January,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_FEBRUARY_2025.xlsx,2025,February,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_MARCH_2025.xlsx,2025,March,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
+PMS_APRIL_2025.xlsx,2025,April,xlsx,0,2,38,,A:D,"State,Prices_of_last_year,Prices_of_last_month,Prices",No,
