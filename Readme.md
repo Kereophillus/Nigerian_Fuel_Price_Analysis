@@ -10,8 +10,13 @@ Analysis of fuel price trends across Nigeria, examining regional variations, tem
 nigerian-fuel-price-analysis/
 │
 ├── data/
-│   ├── raw/            # Original, immutable data
-│   ├── processed/      # Cleaned, transformed data
+│   ├── raw_data/        # Original, immutable data
+│   |   ├── 2025/
+|   |   ├── 2024/
+│   |   ├── 2023/
+│   |   └── 2022/
+|   |      
+│   ├── processed_data/ # Cleaned, transformed data
 │   └── external/       # Third-party data sources
 │
 ├── notebooks/          # Jupyter notebooks
@@ -20,7 +25,7 @@ nigerian-fuel-price-analysis/
 │   ├── data_scripts/           # Data processing scripts
 │   └── visualization_scipts/  # Visualization scripts
 │
-├── reports/            # Generated analysis reports
+├── results/            # Generated analysis reports
 ├── .gitignore          # Git ignore file
 ├── README.md           # Project overview
 └── requirements.txt    # Dependencies
@@ -28,7 +33,7 @@ nigerian-fuel-price-analysis/
 
 ## Data Sources
 
-- [NBS Data]()
+- [NBS Data](www.nbs.com)
 
 
 ## Installation
